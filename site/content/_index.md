@@ -1,6 +1,6 @@
 ---
 title: しんたんブログ
-subtitle: Support sustainable farming while enjoying a cup
+subtitle: 素早くHP作ってみた！！
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Why Kaldi?
