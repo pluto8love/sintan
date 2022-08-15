@@ -4,9 +4,9 @@ subtitle: 素早くHP作ってみた！！
 image: img/rhamely-cqo1ycmxjii-unsplash.jpg
 blurb:
   heading: このサイトは...
-  text: 一人一けんきゅの課題の為に作ったサイトです。
+  text: 一人一研究の課題の為に作ったサイトです。
 intro:
-  heading: What we offer
+  heading: あ
   text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
     java’s origin and support the farmers that grew it. We take coffee
     production, roasting and brewing seriously and we’re glad to pass that
