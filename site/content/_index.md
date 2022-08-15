@@ -1,7 +1,7 @@
 ---
 title: しんたんブログ
 subtitle: 素早くHP作ってみた！！
-image: /img/home-jumbotron.jpg
+image: img/rhamely-cqo1ycmxjii-unsplash.jpg
 blurb:
   heading: Why Kaldi?
   text: Kaldi is the coffee store for everyone who believes that great coffee
