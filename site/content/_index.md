@@ -6,7 +6,7 @@ blurb:
   heading: このサイトは...
   text: 一人一研究の課題の為に作ったサイトです。
 intro:
-  heading: あ
+  heading: HP作り方！
   text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
     java’s origin and support the farmers that grew it. We take coffee
     production, roasting and brewing seriously and we’re glad to pass that
