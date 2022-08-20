@@ -4,7 +4,7 @@ subtitle: 素早くHP作ってみた！！
 image: img/rhamely-cqo1ycmxjii-unsplash.jpg
 blurb:
   heading: このサイトは...
-  text: 簡単にHPの作り方をまとめたサイトです。
+  text: 簡単にHPの作り方を簡単にまとめたサイトです。
 intro:
   heading: HP作り方！
   text: githubのアカウントを作成し、ログインします。
