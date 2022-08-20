@@ -9,8 +9,10 @@ intro:
   heading: HP作り方！
   text: githubのアカウントを作成し、ログインします。
 products:
-  - text: 次にnetlifyにgithub連携でログインします。www.netlifycms.orgのget startedをクリックして指示に従って進めます。
+  - text: 次にnetlifyにgithub連携でログインします。
     image: img/github-google-chrome-2022_08_20-10_10_34-2-.png
+  - text: www.netlifycms.orgのget startedをクリックして指示に従って進めます。
+    image: img/netlify_-develop-deploy-the-best-web-experiences-in-record-time-google-chrome-2022_08_20-10_18_42-3-.png
   - image: img/github_-where-the-world-builds-software-·-github-google-chrome-2022_08_15-11_49_20-2-.png
     text: 上の画面にあるget startedからログインできます。
   - image: img/github_-where-the-world-builds-software-·-github-google-chrome-2022_08_15-11_05_28-2-.png
