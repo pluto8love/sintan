@@ -1,5 +1,5 @@
 ---
-title: 心のブログ
+title: 心のHP
 subtitle: 素早くHP作ってみた！！
 image: img/rhamely-cqo1ycmxjii-unsplash.jpg
 blurb:
@@ -7,15 +7,16 @@ blurb:
   text: 一人一研究の課題の為に作ったサイトです。
 intro:
   heading: HP作り方！
-  text: |-
-    githubのアカウントを作成し、ログインします。
-    次にNetlifyにgithub連携でログインします。www.netlifycms.orgのget startedをクリックして指示に従って進めます。
-    しばらく待つとひな形のサイトができました！
+  text: >
+    [github](https://github.com/)のアカウントを作成し、ログインします。
+
+    次に[netlify](https://www.netlify.com/)にgithub連携でログインします。www.netlifycms.orgのget startedをクリックして指示に従って進めます。
 products:
   - image: img/github_-where-the-world-builds-software-·-github-google-chrome-2022_08_15-11_49_20-2-.png
     text: この画面にあるget startedからログインできます。
   - image: img/github_-where-the-world-builds-software-·-github-google-chrome-2022_08_15-11_05_28-2-.png
-    text: ログインした後パスワード設定など
+    text: |
+      パスワード設定してログインするとHP作成画面が出てきます。
 values:
   heading: Our values
   text: Coffee is an amazing part of human culture but it has a dark side too –
