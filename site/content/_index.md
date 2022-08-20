@@ -11,6 +11,9 @@ intro:
     [github](https://github.com/)のアカウントを作成し、ログインします。
 
     次に[netlify](https://www.netlify.com/)にgithub連携でログインします。www.netlifycms.orgのget startedをクリックして指示に従って進めます。
+
+
+    <a href="https://github.com/">github</a>
 products:
   - image: img/github_-where-the-world-builds-software-·-github-google-chrome-2022_08_15-11_49_20-2-.png
     text: この画面にあるget startedからログインできます。
