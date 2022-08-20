@@ -4,7 +4,7 @@ subtitle: 素早くHP作ってみた！！
 image: img/rhamely-cqo1ycmxjii-unsplash.jpg
 blurb:
   heading: このサイトは...
-  text: 一人一研究の課題の為に作ったサイトです。
+  text: 簡単にHPの作り方をまとめたサイトです。
 intro:
   heading: HP作り方！
   text: |+
@@ -17,6 +17,7 @@ products:
   - image: img/github_-where-the-world-builds-software-·-github-google-chrome-2022_08_15-11_05_28-2-.png
     text: |
       パスワード設定してログインするとHP作成画面が出てきます。
+      しばらく待つと上の画面のようなひな形のサイトができます。
 values:
   heading: Our values
   text: Coffee is an amazing part of human culture but it has a dark side too –
