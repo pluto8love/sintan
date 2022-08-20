@@ -7,13 +7,10 @@ blurb:
   text: 一人一研究の課題の為に作ったサイトです。
 intro:
   heading: HP作り方！
-  text: >
-    [github](https://github.com/)のアカウントを作成し、ログインします。
+  text: |+
+    githubのアカウントを作成し、ログインします。
+    次にnetlifyにgithub連携でログインします。www.netlifycms.orgのget startedをクリックして指示に従って進めます。
 
-    次に[netlify](https://www.netlify.com/)にgithub連携でログインします。www.netlifycms.orgのget startedをクリックして指示に従って進めます。
-
-
-    <a href="https://github.com/">github</a>
 products:
   - image: img/github_-where-the-world-builds-software-·-github-google-chrome-2022_08_15-11_49_20-2-.png
     text: この画面にあるget startedからログインできます。
