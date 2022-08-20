@@ -7,11 +7,10 @@ blurb:
   text: 簡単にHPの作り方をまとめたサイトです。
 intro:
   heading: HP作り方！
-  text: |+
-    githubのアカウントを作成し、ログインします。
-    次にnetlifyにgithub連携でログインします。www.netlifycms.orgのget startedをクリックして指示に従って進めます。
-
+  text: githubのアカウントを作成し、ログインします。
 products:
+  - text: 次にnetlifyにgithub連携でログインします。www.netlifycms.orgのget startedをクリックして指示に従って進めます。
+    image: img/github-google-chrome-2022_08_20-10_10_34-2-.png
   - image: img/github_-where-the-world-builds-software-·-github-google-chrome-2022_08_15-11_49_20-2-.png
     text: 上の画面にあるget startedからログインできます。
   - image: img/github_-where-the-world-builds-software-·-github-google-chrome-2022_08_15-11_05_28-2-.png
