@@ -13,7 +13,7 @@ intro:
 
 products:
   - image: img/github_-where-the-world-builds-software-·-github-google-chrome-2022_08_15-11_49_20-2-.png
-    text: この画面にあるget startedからログインできます。
+    text: 上の画面にあるget startedからログインできます。
   - image: img/github_-where-the-world-builds-software-·-github-google-chrome-2022_08_15-11_05_28-2-.png
     text: |
       パスワード設定してログインするとHP作成画面が出てきます。
