@@ -19,6 +19,8 @@ products:
     text: |
       パスワード設定してログインするとHP作成画面が出てきます。
       しばらく待つと上の画面のようなひな形のサイトができます。
+
+      これを基にして画像や文章そして構成を変えてできたものがこのHPです。
 values:
   heading: Our values
   text: Coffee is an amazing part of human culture but it has a dark side too –
